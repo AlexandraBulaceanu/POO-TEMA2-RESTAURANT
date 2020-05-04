@@ -58,7 +58,7 @@ double Client::notaIndividuala(){
     return suma;
 }
 int Client::getId(){
-    return Client::id;
+    return this_id;
 }
 void Client::adaugaProdus(Produs* p){
     produse.push_back(p);

@@ -57,7 +57,7 @@ double Masa::notaColectiva(){
     return suma;
 }
 int Masa::getId(){
-    return id;
+    return this_id;
 }
 int Masa::getCapacitateCurenta(){
     return capacitateCurenta;

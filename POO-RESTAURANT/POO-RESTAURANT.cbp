@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="POO-RESTAURANT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/POO-RESTAURANT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/POO-RESTAURANT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/AlteBauturi.h" />
+		<Unit filename="include/Chelner.h" />
+		<Unit filename="include/Ciorba.h" />
+		<Unit filename="include/Client.h" />
+		<Unit filename="include/Desert.h" />
+		<Unit filename="include/FelPrincipal.h" />
+		<Unit filename="include/Masa.h" />
+		<Unit filename="include/Produs.h" />
+		<Unit filename="include/Restaurant.h" />
+		<Unit filename="include/Vin.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/AlteBauturi.cpp" />
+		<Unit filename="src/Chelner.cpp" />
+		<Unit filename="src/Ciorba.cpp" />
+		<Unit filename="src/Client.cpp" />
+		<Unit filename="src/Desert.cpp" />
+		<Unit filename="src/FelPrincipal.cpp" />
+		<Unit filename="src/Masa.cpp" />
+		<Unit filename="src/Produs.cpp" />
+		<Unit filename="src/Restaurant.cpp" />
+		<Unit filename="src/Vin.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

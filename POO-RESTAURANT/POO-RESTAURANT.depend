@@ -1,0 +1,300 @@
+# depslib dependency file v1.0
+1588455287 source:d:\poo-restaurant\main.cpp
+	<iostream>
+
+1588440717 source:d:\poo-restaurant\src\bautura.cpp
+	"Bautura.h"
+
+1588440717 d:\poo-restaurant\include\bautura.h
+
+1588527355 source:d:\poo-restaurant\src\chelner.cpp
+	"Chelner.h"
+	"Restaurant.h"
+	"Produs.h"
+	"Masa.h"
+	<bits/stdc++.h>
+
+1588520962 d:\poo-restaurant\include\chelner.h
+	"Produs.h"
+	"Client.h"
+	<bits/stdc++.h>
+
+1588524080 source:d:\poo-restaurant\src\client.cpp
+	"Client.h"
+	"Produs.h"
+	"AlteBauturi.h"
+	"Ciorba.h"
+	"Desert.h"
+	"FelPrincipal.h"
+	"Vin.h"
+	<vector>
+
+1588523487 d:\poo-restaurant\include\client.h
+	<vector>
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588440252 source:d:\poo-restaurant\src\feldemancare.cpp
+	"FelDeMancare.h"
+
+1588440252 d:\poo-restaurant\include\feldemancare.h
+
+1588523205 source:d:\poo-restaurant\src\masa.cpp
+	"Masa.h"
+	"Client.h"
+	<vector>
+
+1588526933 d:\poo-restaurant\include\masa.h
+	<vector>
+	"Client.h"
+
+1588523205 d:\poo-restaurant\include\produs.h
+	<bits/stdc++.h>
+
+1588527461 source:d:\poo-restaurant\src\restaurant.cpp
+	"Restaurant.h"
+	"Masa.h"
+	<vector>
+
+1588527872 d:\poo-restaurant\include\restaurant.h
+	<vector>
+	<Masa.h>
+
+1588526799 source:d:\poo-restaurant\src\produs.cpp
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588521239 source:d:\poo-restaurant\src\altebauturi.cpp
+	"AlteBauturi.h"
+	<bits/stdc++.h>
+
+1588521648 d:\poo-restaurant\include\altebauturi.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588527667 source:d:\poo-restaurant\src\desert.cpp
+	"Desert.h"
+	<bits/stdc++.h>
+
+1588521835 d:\poo-restaurant\include\desert.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588520788 source:d:\poo-restaurant\src\felprincipal.cpp
+	"FelPrincipal.h"
+	<bits/stdc++.h>
+
+1588521952 d:\poo-restaurant\include\felprincipal.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588522163 source:d:\poo-restaurant\src\ciorba.cpp
+	"Ciorba.h"
+	<bits/stdc++.h>
+
+1588522210 d:\poo-restaurant\include\ciorba.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588523336 d:\poo-restaurant\include\vin.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588523424 source:d:\poo-restaurant\src\vin.cpp
+	"Vin.h"
+	<bits/stdc++.h>
+
+1588600515 source:c:\users\johnny\desktop\poo-restaurant\main.cpp
+	<iostream>
+	<Restaurant.h>
+	<Chelner.h>
+
+1588534654 c:\users\johnny\desktop\poo-restaurant\include\restaurant.h
+	<vector>
+	<Masa.h>
+
+1588600258 c:\users\johnny\desktop\poo-restaurant\include\masa.h
+	<vector>
+	"Client.h"
+
+1588600309 c:\users\johnny\desktop\poo-restaurant\include\client.h
+	<vector>
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534635 c:\users\johnny\desktop\poo-restaurant\include\produs.h
+	<bits/stdc++.h>
+
+1588598863 source:c:\users\johnny\desktop\poo-restaurant\src\altebauturi.cpp
+	"AlteBauturi.h"
+	<bits/stdc++.h>
+
+1588534455 c:\users\johnny\desktop\poo-restaurant\include\altebauturi.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588538174 source:c:\users\johnny\desktop\poo-restaurant\src\chelner.cpp
+	"Chelner.h"
+	"Restaurant.h"
+	"Produs.h"
+	"Masa.h"
+	<bits/stdc++.h>
+
+1588534466 c:\users\johnny\desktop\poo-restaurant\include\chelner.h
+	"Produs.h"
+	"Client.h"
+	<bits/stdc++.h>
+
+1588522163 source:c:\users\johnny\desktop\poo-restaurant\src\ciorba.cpp
+	"Ciorba.h"
+	<bits/stdc++.h>
+
+1588534650 c:\users\johnny\desktop\poo-restaurant\include\ciorba.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588601839 source:c:\users\johnny\desktop\poo-restaurant\src\client.cpp
+	"Client.h"
+	"Produs.h"
+	"AlteBauturi.h"
+	"Ciorba.h"
+	"Desert.h"
+	"FelPrincipal.h"
+	"Vin.h"
+	<vector>
+
+1588534641 c:\users\johnny\desktop\poo-restaurant\include\desert.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534639 c:\users\johnny\desktop\poo-restaurant\include\felprincipal.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534693 c:\users\johnny\desktop\poo-restaurant\include\vin.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588527667 source:c:\users\johnny\desktop\poo-restaurant\src\desert.cpp
+	"Desert.h"
+	<bits/stdc++.h>
+
+1588520788 source:c:\users\johnny\desktop\poo-restaurant\src\felprincipal.cpp
+	"FelPrincipal.h"
+	<bits/stdc++.h>
+
+1588600655 source:c:\users\johnny\desktop\poo-restaurant\src\masa.cpp
+	"Masa.h"
+	"Client.h"
+	<vector>
+
+1588600883 source:c:\users\johnny\desktop\poo-restaurant\src\produs.cpp
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588600149 source:c:\users\johnny\desktop\poo-restaurant\src\restaurant.cpp
+	"Restaurant.h"
+	"Masa.h"
+	<vector>
+
+1588535127 source:c:\users\johnny\desktop\poo-restaurant\src\vin.cpp
+	"Vin.h"
+	<bits/stdc++.h>
+
+1588602140 source:c:\users\aib\downloads\bob (1)\poo-restaurant\main.cpp
+	<iostream>
+	<Restaurant.h>
+	<Chelner.h>
+
+1588534654 c:\users\aib\downloads\bob (1)\poo-restaurant\include\restaurant.h
+	<vector>
+	<Masa.h>
+
+1588600258 c:\users\aib\downloads\bob (1)\poo-restaurant\include\masa.h
+	<vector>
+	"Client.h"
+
+1588600309 c:\users\aib\downloads\bob (1)\poo-restaurant\include\client.h
+	<vector>
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534635 c:\users\aib\downloads\bob (1)\poo-restaurant\include\produs.h
+	<bits/stdc++.h>
+
+1588534466 c:\users\aib\downloads\bob (1)\poo-restaurant\include\chelner.h
+	"Produs.h"
+	"Client.h"
+	<bits/stdc++.h>
+
+1588598863 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\altebauturi.cpp
+	"AlteBauturi.h"
+	<bits/stdc++.h>
+
+1588534455 c:\users\aib\downloads\bob (1)\poo-restaurant\include\altebauturi.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588538174 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\chelner.cpp
+	"Chelner.h"
+	"Restaurant.h"
+	"Produs.h"
+	"Masa.h"
+	<bits/stdc++.h>
+
+1588522163 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\ciorba.cpp
+	"Ciorba.h"
+	<bits/stdc++.h>
+
+1588534650 c:\users\aib\downloads\bob (1)\poo-restaurant\include\ciorba.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588607323 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\client.cpp
+	"Client.h"
+	"Produs.h"
+	"AlteBauturi.h"
+	"Ciorba.h"
+	"Desert.h"
+	"FelPrincipal.h"
+	"Vin.h"
+	<vector>
+
+1588534641 c:\users\aib\downloads\bob (1)\poo-restaurant\include\desert.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534639 c:\users\aib\downloads\bob (1)\poo-restaurant\include\felprincipal.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588534693 c:\users\aib\downloads\bob (1)\poo-restaurant\include\vin.h
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588527667 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\desert.cpp
+	"Desert.h"
+	<bits/stdc++.h>
+
+1588607723 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\felprincipal.cpp
+	"FelPrincipal.h"
+	<bits/stdc++.h>
+
+1588602456 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\masa.cpp
+	"Masa.h"
+	"Client.h"
+	<vector>
+
+1588600883 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\produs.cpp
+	"Produs.h"
+	<bits/stdc++.h>
+
+1588600149 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\restaurant.cpp
+	"Restaurant.h"
+	"Masa.h"
+	<vector>
+
+1588535127 source:c:\users\aib\downloads\bob (1)\poo-restaurant\src\vin.cpp
+	"Vin.h"
+	<bits/stdc++.h>
+
